@@ -1,0 +1,71 @@
+/**********************************************************************************/
+/*    			 Hoja de estilos general de la aplicación   				      */
+/**********************************************************************************/
+
+body{
+	background-color: #edf1f5;
+	background-image: linear-gradient(white, #fafae8, #f7f7c8);
+	min-height: 100vh;
+}
+
+ul{
+	list-style-type: none;
+}
+
+.btn:hover{
+	background-color: #2B2B2B !important;
+	color: #d1cfcb !important;
+	border: none;
+}
+
+/* No queremos que los <a> tengan comportamiento de _links */
+/* Tienen que estar en este orden */
+a:link {
+    text-decoration: none !important;
+}
+
+a:visited {
+    text-decoration: none !important;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+
+a:active {
+    text-decoration: none !important;
+}
+
+.notSelectable{
+	user-select: none;
+}
+
+.node{
+	color: rgb(52,58,64); /* Color dark */
+	padding: 0;
+	margin: 0;
+	cursor: pointer;
+	display: inline;
+	user-select: none; 	/* Impedimos que los usuarios puedan seleccionar con el ratón elementos del juego */
+}
+
+.nodeSelected{
+	color: rgb(40,167,69); /* Color success */
+	padding: 0;
+	margin: 0;
+	cursor: pointer;
+	display: inline;
+	user-select: none; 	/* Impedimos que los usuarios puedan seleccionar con el ratón elementos del juego */
+}
+
+.nav-link:hover{
+	color: #6c757d !important; /* Color secondary */
+}
+
+.text, .down{
+	cursor: pointer;
+}
+
+#editField{
+	font-size: 1em;
+}
