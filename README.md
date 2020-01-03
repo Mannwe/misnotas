@@ -3,7 +3,7 @@
 
 <b>Description</b>
 
-This is a simple application to record your notes in a centralized place. I developped this tool because I hated keeping 
+This is a simple application to record your notes in a centralized place. I developed this tool because I hated keeping 
 all my personal notes distributed in a bunch of notebooks, post-its or in my smartphone. Now I am happy using this application
 because I have all this information together, clean an organized.
 
