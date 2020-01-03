@@ -30,7 +30,7 @@ The concept is very simple. You will find a structure made of nodes and notes. N
 have parent nodes and child nodes. 
 
 * Initially you will create your first node just clicking "Nuevo nodo" in the toolbar
-* You can add new nodes to this (or other) one in the same way or add your first note clicking the menú item "Nueva nota"
+* You can add new nodes to this (or other) one in the same way or add your first note clicking the menu item "Nueva nota"
 * If you click one node, if you create a new one, this will be hunging from the selected one.
 * You can delete nodes and notes by clicking "Borrar nodo" and "Borrar nota"
 
