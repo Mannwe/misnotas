@@ -31,3 +31,13 @@ have parent nodes and child nodes.
 * You can add new nodes to this (or other) one in the same way or add your first note clicking the menú item "Nueva nota"
 * If you click one node, if you create a new one, this will be hunging from the selected one.
 * You can delete nodes and notes by clicking "Borrar nodo" and "Borrar nota"
+
+The overall behaviour is very intuitive and user-friendly, just play around!
+
+<b>Final considerations</b>
+
+This application is only in Spanish, but I plan a translation to English in further versions. Anyway, i think that the labels are very intuitive and understandable, or so I hope!
+
+Just to say goodbye telling something about me. Although I am a professional developer, web applications are still a hobby. So, I am currently learning, any comments and improvement ideas will be welcome!
+
+Enjoy!
