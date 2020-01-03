@@ -12,7 +12,8 @@ because I have all this information together, clean an organized.
 You need to install a PHP and MySQL servers. I recommend you to use tools like wamp, xamp, etc., so that you have everything
 in your own computer. 
 Once you get it done, download the application zip file from this repository and extract it in the server root folder. You will access
-to the tool by writing the url http://localhost/folder_name_you_decided (I suggest http://localhost/misnotas.
+to the tool by writing the url http://localhost/folder_name_you_decided (I suggest http://localhost/misnotas, as this is the name of the application).
+
 To build the database, you will find the bbdd file, named sql/bbdd.sql. Just import it from your MySQL admin or copy/paste the code in 
 its SQL Editor to create the database.
 
