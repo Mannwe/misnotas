@@ -31,7 +31,7 @@ have parent nodes and child nodes.
 
 * Initially you will create your first node just clicking "Nuevo nodo" in the toolbar
 * You can add new nodes to this (or other) one in the same way or add your first note clicking the menu item "Nueva nota"
-* If you click one node, if you create a new one, this will be hunging from the selected one.
+* After you click one node, if you then create a new one, this will be hunging from the selected one.
 * You can delete nodes and notes by clicking "Borrar nodo" and "Borrar nota"
 
 The overall behaviour is very intuitive and user-friendly, just play around!
