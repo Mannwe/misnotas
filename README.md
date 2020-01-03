@@ -38,8 +38,8 @@ The overall behaviour is very intuitive and user-friendly, just play around!
 
 <b>Final considerations</b>
 
-This application is only in Spanish, but I plan a translation to English in further versions. Anyway, i think that the labels are very intuitive and understandable, or so I hope!
+This application is only in Spanish, but I plan a translation to English in further versions. Hopefully the labels are intuitive and understandable enough (I think so!).
 
-Just to say goodbye telling something about me. Although I am a professional developer, web applications are still a hobby. So, I am currently learning, any comments and improvement ideas will be welcome!
+Although I am a professional developer, web applications are still a hobby. So, I am currently learning, any comments and improvement ideas will be welcome!
 
 Enjoy!
