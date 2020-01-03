@@ -19,8 +19,8 @@ its SQL Editor to create the database.
 
 <b>Signing up and logging</b>
 
-After opening the application in your browser, you will find the item "Registrarse". Click this to sign up.
-Then please enter a nickname in the "Código de usuario" field and a password in "Contraseña". Then confirm it and enter an e-mail. So far, 
+After opening the application in your browser, you will find the menu item "Registrarse". Click this to sign up.
+Then, please enter a nickname in the "Código de usuario" field and a password in "Contraseña". Then confirm it and enter an e-mail. So far, 
 the e-mail capability is not developed, so you can introduce a fake one.
 If the sign up process is properly down, you will be able to login following the link and button "Iniciar sesión".
 
