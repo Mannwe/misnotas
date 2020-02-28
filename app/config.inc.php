@@ -1,13 +1,20 @@
 <?php
 
     // Conexión a la base de datos
-    define('HOST_NAME', 'localhost');
+    /*define('HOST_NAME', 'localhost');
     define('USERNAME', 'root');
     define('PASSWORD', '');
-    define('DATABASE', 'misnotas');
+    define('DATABASE', 'misnotas');*/
+
+    // Conexión remota Clever Cloud
+    define('HOST_NAME', 'brc366gte7yq6tbzsnwl-mysql.services.clever-cloud.com');
+    define('USERNAME', 'uo7junyhxs800knb');
+    define('PASSWORD', '2L5g8k702atEk0urwM59');
+    define('DATABASE', 'brc366gte7yq6tbzsnwl');
 
     // Constantes de la aplicación
     define('HOST', 'http://localhost/misnotas');
+    
 
     // Constantes para la redirección desde el router de index.php
     define('LOGIN_PATH', HOST . '/login');
